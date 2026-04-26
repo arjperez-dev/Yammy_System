@@ -14,14 +14,6 @@ Proyecto de ejemplo en TypeScript para procesar pagos y aplicar descuentos de fo
 - `Yammy_System/src/services`: validación, composición de descuentos y procesamiento.
 - `Yammy_System/src/main.ts`: ejemplo de uso del sistema.
 
-## Cómo ejecutarlo
-
-```bash
-cd Yammy_System
-npm install
-node ./node_modules/ts-node/dist/bin.js src/main.ts
-```
-
 ## Tecnologías
 
 TypeScript, Node.js y `ts-node`.
